@@ -1,0 +1,15 @@
+D:\cSharp--library\LabWork\MethodOverloading\bin\Debug\net9.0\MethodOverloading.exe
+D:\cSharp--library\LabWork\MethodOverloading\bin\Debug\net9.0\MethodOverloading.deps.json
+D:\cSharp--library\LabWork\MethodOverloading\bin\Debug\net9.0\MethodOverloading.runtimeconfig.json
+D:\cSharp--library\LabWork\MethodOverloading\bin\Debug\net9.0\MethodOverloading.dll
+D:\cSharp--library\LabWork\MethodOverloading\bin\Debug\net9.0\MethodOverloading.pdb
+D:\cSharp--library\LabWork\MethodOverloading\obj\Debug\net9.0\MethodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\cSharp--library\LabWork\MethodOverloading\obj\Debug\net9.0\MethodOverloading.AssemblyInfoInputs.cache
+D:\cSharp--library\LabWork\MethodOverloading\obj\Debug\net9.0\MethodOverloading.AssemblyInfo.cs
+D:\cSharp--library\LabWork\MethodOverloading\obj\Debug\net9.0\MethodOverloading.csproj.CoreCompileInputs.cache
+D:\cSharp--library\LabWork\MethodOverloading\obj\Debug\net9.0\MethodOverloading.sourcelink.json
+D:\cSharp--library\LabWork\MethodOverloading\obj\Debug\net9.0\MethodOverloading.dll
+D:\cSharp--library\LabWork\MethodOverloading\obj\Debug\net9.0\refint\MethodOverloading.dll
+D:\cSharp--library\LabWork\MethodOverloading\obj\Debug\net9.0\MethodOverloading.pdb
+D:\cSharp--library\LabWork\MethodOverloading\obj\Debug\net9.0\MethodOverloading.genruntimeconfig.cache
+D:\cSharp--library\LabWork\MethodOverloading\obj\Debug\net9.0\ref\MethodOverloading.dll

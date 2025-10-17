@@ -1,0 +1,15 @@
+D:\cSharp--library\DemoProject\DemoProject\bin\Debug\net9.0\DemoProject.exe
+D:\cSharp--library\DemoProject\DemoProject\bin\Debug\net9.0\DemoProject.deps.json
+D:\cSharp--library\DemoProject\DemoProject\bin\Debug\net9.0\DemoProject.runtimeconfig.json
+D:\cSharp--library\DemoProject\DemoProject\bin\Debug\net9.0\DemoProject.dll
+D:\cSharp--library\DemoProject\DemoProject\bin\Debug\net9.0\DemoProject.pdb
+D:\cSharp--library\DemoProject\DemoProject\obj\Debug\net9.0\DemoProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\cSharp--library\DemoProject\DemoProject\obj\Debug\net9.0\DemoProject.AssemblyInfoInputs.cache
+D:\cSharp--library\DemoProject\DemoProject\obj\Debug\net9.0\DemoProject.AssemblyInfo.cs
+D:\cSharp--library\DemoProject\DemoProject\obj\Debug\net9.0\DemoProject.csproj.CoreCompileInputs.cache
+D:\cSharp--library\DemoProject\DemoProject\obj\Debug\net9.0\DemoProject.sourcelink.json
+D:\cSharp--library\DemoProject\DemoProject\obj\Debug\net9.0\DemoProject.dll
+D:\cSharp--library\DemoProject\DemoProject\obj\Debug\net9.0\refint\DemoProject.dll
+D:\cSharp--library\DemoProject\DemoProject\obj\Debug\net9.0\DemoProject.pdb
+D:\cSharp--library\DemoProject\DemoProject\obj\Debug\net9.0\DemoProject.genruntimeconfig.cache
+D:\cSharp--library\DemoProject\DemoProject\obj\Debug\net9.0\ref\DemoProject.dll

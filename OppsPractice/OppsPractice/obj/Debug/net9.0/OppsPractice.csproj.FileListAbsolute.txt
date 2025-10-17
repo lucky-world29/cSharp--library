@@ -1,0 +1,15 @@
+D:\cSharp--library\OppsPractice\OppsPractice\bin\Debug\net9.0\OppsPractice.exe
+D:\cSharp--library\OppsPractice\OppsPractice\bin\Debug\net9.0\OppsPractice.deps.json
+D:\cSharp--library\OppsPractice\OppsPractice\bin\Debug\net9.0\OppsPractice.runtimeconfig.json
+D:\cSharp--library\OppsPractice\OppsPractice\bin\Debug\net9.0\OppsPractice.dll
+D:\cSharp--library\OppsPractice\OppsPractice\bin\Debug\net9.0\OppsPractice.pdb
+D:\cSharp--library\OppsPractice\OppsPractice\obj\Debug\net9.0\OppsPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\cSharp--library\OppsPractice\OppsPractice\obj\Debug\net9.0\OppsPractice.AssemblyInfoInputs.cache
+D:\cSharp--library\OppsPractice\OppsPractice\obj\Debug\net9.0\OppsPractice.AssemblyInfo.cs
+D:\cSharp--library\OppsPractice\OppsPractice\obj\Debug\net9.0\OppsPractice.csproj.CoreCompileInputs.cache
+D:\cSharp--library\OppsPractice\OppsPractice\obj\Debug\net9.0\OppsPractice.sourcelink.json
+D:\cSharp--library\OppsPractice\OppsPractice\obj\Debug\net9.0\OppsPractice.dll
+D:\cSharp--library\OppsPractice\OppsPractice\obj\Debug\net9.0\refint\OppsPractice.dll
+D:\cSharp--library\OppsPractice\OppsPractice\obj\Debug\net9.0\OppsPractice.pdb
+D:\cSharp--library\OppsPractice\OppsPractice\obj\Debug\net9.0\OppsPractice.genruntimeconfig.cache
+D:\cSharp--library\OppsPractice\OppsPractice\obj\Debug\net9.0\ref\OppsPractice.dll

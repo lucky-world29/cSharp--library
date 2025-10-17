@@ -1,0 +1,15 @@
+D:\cSharp--library\FirstProject\FirstProject\bin\Debug\net9.0\FirstProject.exe
+D:\cSharp--library\FirstProject\FirstProject\bin\Debug\net9.0\FirstProject.deps.json
+D:\cSharp--library\FirstProject\FirstProject\bin\Debug\net9.0\FirstProject.runtimeconfig.json
+D:\cSharp--library\FirstProject\FirstProject\bin\Debug\net9.0\FirstProject.dll
+D:\cSharp--library\FirstProject\FirstProject\bin\Debug\net9.0\FirstProject.pdb
+D:\cSharp--library\FirstProject\FirstProject\obj\Debug\net9.0\FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\cSharp--library\FirstProject\FirstProject\obj\Debug\net9.0\FirstProject.AssemblyInfoInputs.cache
+D:\cSharp--library\FirstProject\FirstProject\obj\Debug\net9.0\FirstProject.AssemblyInfo.cs
+D:\cSharp--library\FirstProject\FirstProject\obj\Debug\net9.0\FirstProject.csproj.CoreCompileInputs.cache
+D:\cSharp--library\FirstProject\FirstProject\obj\Debug\net9.0\FirstProject.sourcelink.json
+D:\cSharp--library\FirstProject\FirstProject\obj\Debug\net9.0\FirstProject.dll
+D:\cSharp--library\FirstProject\FirstProject\obj\Debug\net9.0\refint\FirstProject.dll
+D:\cSharp--library\FirstProject\FirstProject\obj\Debug\net9.0\FirstProject.pdb
+D:\cSharp--library\FirstProject\FirstProject\obj\Debug\net9.0\FirstProject.genruntimeconfig.cache
+D:\cSharp--library\FirstProject\FirstProject\obj\Debug\net9.0\ref\FirstProject.dll
