@@ -1,0 +1,102 @@
+# Build Folders (bin and obj)
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+
+# Visual Studio user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache and temp files
+.vs/
+*.dbmdl
+*.vssscc
+*_i.c
+*_p.c
+*_h.h
+*.tmp
+*.tmp_proj
+*.log
+*.tlog
+*.vspscc
+*.cachefile
+
+# Visual Studio backup and report files
+*.bak
+*.backup
+*.BLOB
+*.CoreCompileInputs.cache
+*.FileListAbsolute.txt
+*.tlog
+*.lastcodeanalysissucceeded
+*.log
+
+# Compiled binary files
+*.dll
+*.exe
+*.app
+*.so
+*.dylib
+*.pdb
+*.class
+*.cache
+*.zip
+*.tar.gz
+
+# Test results
+TestResult*/
+[Test]Result.xml
+*.VisualState.xml
+
+# NGen files
+*.ni.dll
+*.ni.exe
+
+# NuGet packages
+*.nupkg
+*.snupkg
+# The packages folder can be ignored because of restore
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+!**/[Pp]ackages/repositories.config
+
+# Visual Studio Code directories
+.vscode/
+.history/
+
+# Windows image cache files
+Thumbs.db
+ehthumbs.db
+
+# Others
+*.sqlite
+*.db
+*.opendb
+*.rdl.data
+*.rdl.designer.cs
+*.msscci
+
+# Publish outputs
+publish/
+dist/
+out/
+Release/
+Debug/
+
+# Resharper and Rider caches
+_ReSharper*/
+.idea/
+*.DotSettings.user
+
+# Backup & temp files
+*.swp
+*.bak
+*.orig
+*.tmp
+*.old
+
+# Other IDEs
+*.code-workspace
